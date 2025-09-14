@@ -53,7 +53,6 @@ The tool implements a multi-stage reconnaissance methodology that leverages both
 - **gobuster** - Directory/file brute-forcer
 - **dirsearch** - Advanced directory search tool
 - **ffuf** - Fast web fuzzer for targeted port enumeration
-
 ![FastRecon Architecture](chart.png)
 
 ## 📋 Prerequisites
