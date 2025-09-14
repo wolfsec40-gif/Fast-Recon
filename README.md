@@ -54,6 +54,8 @@ The tool implements a multi-stage reconnaissance methodology that leverages both
 - **dirsearch** - Advanced directory search tool
 - **ffuf** - Fast web fuzzer for targeted port enumeration
 
+![FastRecon Architecture](chart.png)
+
 ## 📋 Prerequisites
 
 ### Required Tools
